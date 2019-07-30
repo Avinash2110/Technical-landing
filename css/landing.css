@@ -1,0 +1,25 @@
+.light{
+    background-color: cadetblue;
+}
+
+body{
+    background: url("../images/bgimg.jpg")
+    no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Russo One', sans-serif;
+}
+
+.center{
+    text-align: center;
+    padding: 150px;
+}
+
+.dec{
+    color: black
+}
+
+@media(max-width:768px){
+    h1{
+        background-color: #449d44;
+    }
+}
